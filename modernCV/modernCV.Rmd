@@ -1,0 +1,100 @@
+---
+name: Danko Algeri
+position: "Ingeniero Agroindustrial MSc"
+address: "Calle Reno # 35 - 86 bajo 101"
+phone: +1 22 3333 4444
+www: dankoal.com
+email: "algedan@ens.fr"
+twitter: dankoale
+github: dankoal
+linkedin: dankoal
+date: "`r format(Sys.time(), '%B %Y')`"
+output: vitae::moderncv
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE, warning = FALSE, message = FALSE)
+library(vitae)
+```
+
+# Perfil
+
+Ingeniero con capacidad deductiva y analítica para el desarrollo de problemas ...
+
+# Formación
+
+ * **Ingeniería Ambiental**. Universidad de la ciudad blanca. 2002
+ * **Máster en producción de frutas del trópico**. Universidad Conga del litoral. 2009
+ * **Máster en  sostenimiento energético**. Universidad de Bengal. 2014
+ 
+# Experiencia laboral
+
+* Investigador de desarrollo. PARDES S.A. 2010
+
+
+# Intereses
+
+* Investigación
+* Deportes acuáticos
+* Fotografía
+
+# Referencias
+
+
+# Formación
+
+ * **Ingeniería Ambiental**. Universidad de la ciudad blanca. 2002
+ * **Máster en producción de frutas del trópico**. Universidad Conga del litoral. 2009
+ * **Máster en  sostenimiento energético**. Universidad de Bengal. 2014
+ 
+# Experiencia laboral
+
+* Investigador de desarrollo. PARDES S.A. 2010
+
+
+# Intereses
+
+* Investigación
+* Deportes acuáticos
+* Fotografía
+
+# Referencias
+
+# Formación
+
+ * **Ingeniería Ambiental**. Universidad de la ciudad blanca. 2002
+ * **Máster en producción de frutas del trópico**. Universidad Conga del litoral. 2009
+ * **Máster en  sostenimiento energético**. Universidad de Bengal. 2014
+ 
+# Experiencia laboral
+
+* Investigador de desarrollo. PARDES S.A. 2010
+
+
+# Intereses
+
+* Investigación
+* Deportes acuáticos
+* Fotografía
+
+# Referencias
+
+
+# Formación
+
+ * **Ingeniería Ambiental**. Universidad de la ciudad blanca. 2002
+ * **Máster en producción de frutas del trópico**. Universidad Conga del litoral. 2009
+ * **Máster en  sostenimiento energético**. Universidad de Bengal. 2014
+ 
+# Experiencia laboral
+
+* Investigador de desarrollo. PARDES S.A. 2010
+
+
+# Intereses
+
+* Investigación
+* Deportes acuáticos
+* Fotografía
+
+# Referencias
